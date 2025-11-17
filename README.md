@@ -1,2 +1,2 @@
 # Quack-World
-Engine Godot + C# running inside GitHub Codespaces (iPad)
+Playcanvas + JavaScript  running inside GitHub Codespaces (iPad)
