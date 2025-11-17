@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background: #1b1b2f;
+}
+
+#game {
+    diplay: block;
+    margin: 0 auto;
+    background: linear-gradient(#87ceeb, #4aa3ff);
+    border: 2px solid white;
+    image-rendering: pixelated;
+}
